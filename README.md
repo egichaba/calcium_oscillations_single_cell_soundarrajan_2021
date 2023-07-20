@@ -1,1 +1,4 @@
 # calcium_oscillations_single_cell_soundarrajan_2021
+
+This repository contains the python code to simulate the calcium oscillations for a single cell model reported in the manuscript  "7.	Soundarrajan, D., Huizar, F. J., Paravitorghabeh, R., Robinett, T., & Zartman, J. J. (2021). From spikes to intercellular waves: Tuning intercellular calcium signaling dynamics modulates organ size control. PLOS Computational Biology, 17(11), e1009543. https://doi.org/10.1371/journal.pcbi.1009543". The code was built by [Emmanuel M. Gichaba](www.linkedin.com/in/emmanuel-gichaba-6b3289187) , [Dr. Norma C
+ Pérez-Rosas](https://www.linkedin.com/in/nprzrosas) and [Dr. Adrian Buganza-Tepole](https://engineering.purdue.edu/tepolelab/contact). This work was done within Purdue Summer Udergraduate Research Fellowship of 2023.
